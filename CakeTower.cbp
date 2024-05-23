@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CakeTower" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CakeTower" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CakeTower" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="SDL_Ultis.hpp" />
+		<Unit filename="drop_cake.hpp" />
+		<Unit filename="final_score.hpp" />
+		<Unit filename="instruction.hpp" />
+		<Unit filename="introduction.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.hpp" />
+		<Unit filename="mouse_event.hpp" />
+		<Unit filename="playing.hpp" />
+		<Unit filename="selecting_level.hpp" />
+		<Unit filename="variables.hpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

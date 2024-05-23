@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1716084438 source:e:\codeblocks files\caketower\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"variables.hpp"
+	"SDL_Ultis.hpp"
+	"mouse_event.hpp"
+	"introduction.hpp"
+	"selecting_level.hpp"
+	"instruction.hpp"
+	"drop_cake.hpp"
+	"menu.hpp"
+	"playing.hpp"
+	"final_score.hpp"
+
+1716435343 e:\codeblocks files\caketower\variables.hpp
+
+1716084227 e:\codeblocks files\caketower\sdl_ultis.hpp
+
+1716390837 e:\codeblocks files\caketower\introduction.hpp
+
+1716390970 e:\codeblocks files\caketower\selecting_level.hpp
+
+1716439490 e:\codeblocks files\caketower\playing.hpp
+
+1715585260 e:\codeblocks files\caketower\print_final_score.hpp
+
+1716022913 e:\codeblocks files\caketower\instruction.hpp
+
+1716022430 e:\codeblocks files\caketower\mouse_event.hpp
+
+1714576848 source:e:\codeblocks files\caketower\menu.cpp
+
+1716434951 e:\codeblocks files\caketower\menu.hpp
+
+1716432825 e:\codeblocks files\caketower\final_score.hpp
+
+1715958537 e:\codeblocks files\caketower\drop_cake.hpp
+
